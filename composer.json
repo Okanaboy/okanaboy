@@ -1,0 +1,19 @@
+{
+    "name": "avoce/okanaboy",
+    "description": "This is Okanaboy composer package test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Avoce\\Okanaboy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chrislain Avocegan",
+            "email": "cavocegan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
